@@ -15,4 +15,6 @@ This is an educational website projects.
   <li>User Management System</li>
   <li>Online quiz system</li>
   <li>Online notes saving</li>
+  <li>Ecommerce system to buy online courses</li>
+  <li>Admin Panel for adding quizes and courses</li>
 <ul>
